@@ -130,7 +130,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, ReactNative, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Core java, DSA, Html, Css, Js, React, ReactNative, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
 </p>
 </Description>
 <Description>
